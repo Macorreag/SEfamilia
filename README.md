@@ -11,7 +11,8 @@ Los tipos de familias que este árbol genealógico puede reconocer son:
 - [x] Monoparental
 - [ ] Adoptiva
 - [x] Sin hijos
-- [ ] Homoparental
+- [x] Homoparental
+    > Este programa admite papas que sean de sexo femenino y madres de sexo masculino
 - [ ] Ensamblada
 - [ ] De Hecho
 
