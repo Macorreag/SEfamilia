@@ -15,6 +15,16 @@ Los tipos de familias que este árbol genealógico puede reconocer son:
 - [ ] Ensamblada
 - [ ] De Hecho
 
+### Filiaciones Reconocidas
+
+- [x] Padres
+- [x] Hijos
+- [x] Hermanos
+- [x] Abuelos
+- [x] Primos
+- [x] Nietos
+
+
 
 ## Presentación del Sistema Experto 
 
