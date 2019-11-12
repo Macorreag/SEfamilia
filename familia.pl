@@ -1,3 +1,6 @@
+% Hechos
+
+
 hombre(david).
 hombre(juan).
 hombre(andres).
@@ -15,6 +18,9 @@ padres(andres, alvaro, marlene).
 padres(paola, alvaro, marlene).
 padres(daniela, andres, angela).
 padres(emanuel, juan, paola).
+
+
+% Reglas
 
 % P es padre de X
 padre(P,X) :- padres(X,P,_).
